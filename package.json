@@ -1,9 +1,9 @@
 {
-  "name"    : "APP_NAME",
-  "version" : "0.0.0",
-  "main"    : "index.js",
+  "name": "APP_NAME",
+  "version": "0.0.0",
+  "main": "index.js",
   "devDependencies": {
-    "electron-prebuilt": "^0.26"
+    "electron": "^1.4.15"
   },
   "scripts": {
     "start": "electron index.js"
